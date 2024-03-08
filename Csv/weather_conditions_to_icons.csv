@@ -1,0 +1,50 @@
+Weather Condition,Swift SF Icon
+Sunny,sun.max
+Partly cloudy,cloud.sun
+Cloudy,cloud
+Overcast,smoke
+Mist,cloud.fog
+Patchy rain possible,cloud.drizzle
+Patchy snow possible,cloud.snow
+Patchy sleet possible,cloud.sleet
+Patchy freezing drizzle possible,cloud.hail
+Thundery outbreaks possible,cloud.bolt
+Blowing snow,wind.snow
+Blizzard,snow
+Fog,fog
+Freezing fog,fog.fill
+Patchy light drizzle,cloud.drizzle
+Light drizzle,cloud.drizzle.fill
+Freezing drizzle,cloud.hail
+Heavy freezing drizzle,cloud.hail.fill
+Patchy light rain,cloud.rain
+Light rain,cloud.rain.fill
+Moderate rain at times,cloud.rain
+Moderate rain,cloud.heavyrain
+Heavy rain at times,cloud.heavyrain.fill
+Heavy rain,cloud.heavyrain
+Light freezing rain,cloud.sleet
+Moderate or heavy freezing rain,cloud.sleet.fill
+Light sleet,cloud.sleet
+Moderate or heavy sleet,cloud.sleet.fill
+Patchy light snow,cloud.snow
+Light snow,cloud.snow.fill
+Patchy moderate snow,cloud.snow
+Moderate snow,snow
+Patchy heavy snow,snow.fill
+Heavy snow,snow
+Ice pellets,hail
+Light rain shower,cloud.rain
+Moderate or heavy rain shower,cloud.heavyrain
+Torrential rain shower,cloud.heavyrain.fill
+Light sleet showers,cloud.sleet
+Moderate or heavy sleet showers,cloud.sleet.fill
+Light snow showers,cloud.snow
+Moderate or heavy snow showers,cloud.snow.fill
+Light showers of ice pellets,cloud.hail
+Moderate or heavy showers of ice pellets,cloud.hail.fill
+Patchy light rain with thunder,cloud.sun.bolt
+Moderate or heavy rain with thunder,cloud.bolt.rain
+Patchy light snow with thunder,cloud.bolt.rain.fill
+Moderate or heavy snow with thunder,cloud.bolt.rain.fill
+Clear,moon.stars
